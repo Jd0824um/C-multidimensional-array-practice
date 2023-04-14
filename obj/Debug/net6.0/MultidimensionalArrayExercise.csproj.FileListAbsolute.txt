@@ -1,0 +1,15 @@
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\bin\Debug\net6.0\MultidimensionalArrayExercise.exe
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\bin\Debug\net6.0\MultidimensionalArrayExercise.deps.json
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\bin\Debug\net6.0\MultidimensionalArrayExercise.runtimeconfig.json
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\bin\Debug\net6.0\MultidimensionalArrayExercise.dll
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\bin\Debug\net6.0\MultidimensionalArrayExercise.pdb
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\MultidimensionalArrayExercise.csproj.AssemblyReference.cache
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\MultidimensionalArrayExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\MultidimensionalArrayExercise.AssemblyInfoInputs.cache
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\MultidimensionalArrayExercise.AssemblyInfo.cs
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\MultidimensionalArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\MultidimensionalArrayExercise.dll
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\refint\MultidimensionalArrayExercise.dll
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\MultidimensionalArrayExercise.pdb
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\MultidimensionalArrayExercise.genruntimeconfig.cache
+C:\Users\JohnZ\source\repos\MultidimensionalArrayExercise\obj\Debug\net6.0\ref\MultidimensionalArrayExercise.dll
